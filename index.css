@@ -1,0 +1,64 @@
+
+
+
+html, body {margin: 0px; padding: 0px
+max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+body
+{
+	background-image: url("draven.jpg");
+	
+}
+
+
+
+#opgg
+{
+	
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  padding-top: 25px;
+  
+  
+	
+}
+
+#draven 
+{
+	font-size: 50px;
+	margin-top: -50px;
+}
+
+
+
+
+#muncher 
+{
+	text-align: center;
+	font-family: 'Russo One', sans-serif;
+	font-size: 100px;
+	margin-top: -100px;
+	color: white;
+	text-shadow: 6px 6px #4f92ff;
+	
+}
+
+
+#trick
+{
+	font-size: 50px;
+	
+	font-family: 'Russo One', sans-serif;
+	color: white;
+	text-shadow: 6px 6px #4f92ff;
+	text-align: center;
+	
+	white-space: nowrap;
+	margin-left: -270px;
+	
+}
